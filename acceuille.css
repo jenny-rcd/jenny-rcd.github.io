@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 28 nov. 2023, 21:13:35
+    Author     : jenny
+*/
+body{
+    background-image: url("https://img.freepik.com/vecteurs-libre/illustration-biodiversite-dessinee-main_23-2149424145.jpg?w=1380&t=st=1705253786~exp=1705254386~hmac=c4dda0c5db4420d65e387d0f456fc8923ad5278fd0eb93166c81817fb172a3e2");
+}
+h1{
+    text-align: center;
+    color: palegreen;
+    position: relative;
+    padding: 65px;
+    background: linear-gradient(45deg, green, transparent);
+    top: -60px;
+}
+
+#div{
+    text-align: center;
+    color: azure;
+    position: relative;
+    top: -139px;
+    padding: 20px;
+}
+
