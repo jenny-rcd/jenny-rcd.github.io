@@ -1,0 +1,73 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 27 févr. 2024, 14:15:13
+    Author     : jenny
+*/
+
+body{
+    background-color: #87c725;
+}
+h1 {
+    text-align: center;
+    color: palegreen;
+    position: relative;
+    padding: 2vw;
+    background: linear-gradient(45deg, green, transparent);
+    top: -1vw;
+}
+
+#div {
+    text-align: center;
+    color: azure;
+    position: relative;
+    top: -5.199999999999999vw;
+    padding: 2vw;
+}
+
+#div>a{
+    text-decoration: none;
+    color: white;
+}
+
+#img{
+    position: absolute;
+    top: 7.2vw;
+    z-index: -1;
+}
+
+#p {
+    position: absolute;
+    margin: 7vw;
+    text-align: center;
+    width: 10vw;
+    top: 0vw;
+    font-size: 600%;
+}
+
+#p>a{
+    color: white;
+}
+
+#img1{
+    position: absolute;
+    top: 7.2vw;
+    z-index: -1;
+    right: 12vw;
+}
+
+#p1 {
+    position: absolute;
+    margin: 7vw;
+    text-align: center;
+    width: 10vw;
+    top: 0vw;
+    font-size: 600%;
+    right: 50vw;
+}
+
+#p1>a{
+    color: white;
+}
