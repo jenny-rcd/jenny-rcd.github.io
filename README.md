@@ -14,7 +14,7 @@ Un site web interactif et éducatif conçu pour sensibiliser le public à la pro
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 * **HTML5 :** Structuration sémantique des pages web.
 * **CSS3 :** Mise en forme, animations et design responsive.
